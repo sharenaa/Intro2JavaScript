@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: lightblue;
+}
+h1{
+  color:beige
+}
+button{
+  background-color: cornflowerblue;
+  color: whitesmoke;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
